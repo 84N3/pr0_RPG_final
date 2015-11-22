@@ -1,0 +1,64 @@
+﻿-------- Bug 1 ERLEDIGT --------
+eim Gastwirt, den man am Anfang (Erste Mission)treffen kann, 
+kann man sich kostenlos unbeschriftete Items holen die man dann 
+nicht mehr los wird. (Kann sie weder verkaufen noch benutzen).
+
+-------- Bug 2 ERLEDIGT --------
+Vor Grünes Tal gibt es in Weltenforst eine Treppe. 
+Geht man von der Treppe aus bis zum Ende Richtung Süden bis zur Wand, 
+kann man in Richtung Osten über die Wand gehen.
+
+NOTIZ: Kein Gras an Klippe setzten!
+
+-------- Bug 3 ERLEDIGT --------
+Nördlich dieser Treppe ist noch ein Sektor von Weltenforst mit einer Höhle. 
+Westlich dieser Höhle ist ein Hügel und diesen kann man von östlicher Seite begehen.
+
+NOTIZ: Kein Gras an Klippe setzten!
+
+-------- Bug 4 ERLEDIGT --------
+Als vier2acht auf Level 4 aufgestiegen ist, erschien eine Meldung das er einen neuen 
+Skill bekommen hat. Dieser ist aber im Menü nicht zu finden.
+
+-------- Bug 5 ERLEDIGT --------
+Hutverlegerquest abgeschlossen, items haben sich nicht aus dem inventar entfernt, 
+questbelohnung bekommen. Konnte danach hutverleger sofort wieder anprechen und habe 
+erneut die questbelohnung erhalten. dies ließ sich unendlich oft wiederholen.
+
+-------- Bug 6 ERLEDIGT --------
+Es gibt 2 Möglichkeiten vor der Quest mit der Händlerhöhle zu der Höhle zu gelangen. 
+In Grünes Tal kann man rechts an den Wachen vorbei und am Eingang von den Talminen 
+kann man über die Wand gehen im Süden. Wenn man da an der Wand steht, kann man auch 
+von dem Schleim angegriffen werden, auch an der Stelle, wo man nicht über die Wand gehen kann.
+
+NOTIZ: Kein Gras an Klippe setzten!
+
+-------- Bug 7 ERLEDIGT --------
+Beim Unterhalten mit der TeeTante kommt 2 mal der selbe Dialog 
+
+NOTIZ: Hör endlich auf Bnkd zu klonen, du vergisst immer die 2te Event-Seite zu löschen.
+
+-------- Bug Schwer 1 ERLEDIGT --------
+In der 2ten Höhle wo Stefipant einen Accounthändler angreift und wo man dann nur weiter kommt, 
+wenn man einen Accounthändler angreift. Der Accounthändler verschwindet nicht. 
+Wenn man dann die Höhle verlassen will hängt sich das Spiel auf.
+
+Hab die Höhle betreten und es kam ein kurzer automatischer Dialog, wo Stefipant den 
+ersten Händler automatisch getötet hat. Bin danach zum zweiten Händler hin und hab ihn 
+auch getötet aber er ist nicht verschwunden. Auch nach mehreren Versuchen. Als ich die Höhle 
+wieder verlassen wollte, ist auch noch das Spiel abgestürzt. 
+
+-------- Bug Schwer 2 ERLEDIGT --------
+Wenn man vor der Kiste im zweiten Haus der Pioniersiedlung klickt, dann kommt man in den Untergrund, 
+doch wenn man wieder nach oben will, kommt man nur auf die Mauer und kann dort rum laufen, 
+das heißt man hängt da unten fest. Ins erste Haus kommt man gar nicht erst rein.
+
+NOTIZ: Hab vergessen das Event auf Berührung, statt Aktivierung zu setzten.
+
+-------- Bug Schwer 3 ERLEDIGT --------
+Nachdem man den Jäger vor dem Schweinebärmann gerettet hat, läuft der Jäger dann anscheind 
+nach Hause und bleibt dann stehen und es passiert nichts mehr. Die Monster, die man noch 
+sieht bewegen sich aber noch. Pause ist auch nicht möglich. Das einzige was bleibt, ist das 
+Spiel zb per TaskManager zu beenden.
+
+NOTIZ: Das Jäger Event hat nicht registriert das der Busch nicht mehr da ist, und ist daran hängen geblieben.
