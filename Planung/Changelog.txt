@@ -1,7 +1,0 @@
-31.08.15 (mandalore394)
-			Bnkd: Dialog berichtigt.
-			Holzschwert: Beschreibung Tippfehler korrigiert.
-			Lederrüstung: Beschreibung Tippfehler korrigiert.
-			Kupferrüstung: Beschreibung fertig gemacht.
-			Weltforst VIII: Clipping Fehler beseitigt.
-			"Planung"- Ordner erstellt.
